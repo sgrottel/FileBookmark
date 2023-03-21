@@ -41,7 +41,7 @@ In doubt, feel free to contact me with any questions.
 ## License
 This project is freely available as open source under the terms of the [Apache License, Version 2.0](LICENSE)
 
-> Copyright 2023, SGrottel
+> Copyright 2011-2023, SGrottel
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
