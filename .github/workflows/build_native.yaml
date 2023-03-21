@@ -68,5 +68,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: FileBookmark-${{env.FULL_VERSION_NUMBER}}-${{matrix.platform}}-${{matrix.configuration}}
-        path: bin/${{matrix.platform}}/${{matrix.configuration}}
+        path: FileBookmark/bin/${{matrix.platform}}/${{matrix.configuration}}
         if-no-files-found: error

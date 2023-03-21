@@ -2,6 +2,7 @@
 A simply way to bookmark a file in a directory.
 
 [![GitHub](https://img.shields.io/github/license/sgrottel/FileBookmark)](/LICENSE)
+[![Build Native](https://github.com/sgrottel/FileBookmark/actions/workflows/build_native.yaml/badge.svg)](https://github.com/sgrottel/FileBookmark/actions/workflows/build_native.yaml)
 
 This is not a Windows Explorer shell extension.
 It is a simple, normal application which writes to the right places in the registry.
