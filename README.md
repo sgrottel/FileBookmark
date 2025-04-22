@@ -1,4 +1,10 @@
 # 🔖 FileBookmark
+
+> [!CAUTION]
+> This repository is archived!
+>
+> The project is now part of the [Tiny Tools Collection](https://github.com/sgrottel/tiny-tools-collection).
+
 A simply way to bookmark a file in a directory.
 
 [![GitHub](https://img.shields.io/github/license/sgrottel/FileBookmark)](/LICENSE)
